@@ -43,7 +43,7 @@ fileHandle.close()
 print("\nFile Copied Successfully!")
 ```
 ### OUTPUT:
-![Screenshot 2023-12-30 145200](https://github.com/23004205/copy-file/assets/138971114/c9d0f91b-bb3b-424a-b7ff-469f0fd15055)
+![Screenshot 2023-12-30 145902](https://github.com/23004205/copy-file/assets/138971114/98e911a6-6161-4ac7-a052-188991dc3154)
 
 ![image](https://github.com/23004205/copy-file/assets/138971114/10db2696-2f3a-4514-bed4-4f9df15bdbdc)
 
