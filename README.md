@@ -24,6 +24,7 @@ when done print"File Copied Successfully"
 end the program
   
 ## PROGRAM:
+```
 '''
 #Developed by: singamala venkata sai kumar reddy
 #RegisterNumber:212223230208
@@ -40,7 +41,7 @@ for s in texts:
     fileHandle.write(s)
 fileHandle.close()
 print("\nFile Copied Successfully!")
-
+```
 ### OUTPUT:
 ![Screenshot 2023-12-30 145200](https://github.com/23004205/copy-file/assets/138971114/c9d0f91b-bb3b-424a-b7ff-469f0fd15055)
 
